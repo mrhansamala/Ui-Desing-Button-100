@@ -4,8 +4,6 @@
 
 If you want me to keep making **amazing free resources** for you, I would *really appreaciate* your feedback and support🤗️
 
-<p align="center"><a href="https://www.producthunt.com/widgets/cards/r/UG9zdDozNTM0MDI=" target="_blank"><img src="" alt="100 CSS Buttons" /></a></p>
-
 ## 🤖️ To See Code, Click on One of The Links
 
 | Preview | Link | Description |
