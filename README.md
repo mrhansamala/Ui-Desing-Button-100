@@ -1,4 +1,4 @@
-[![](./assets/banner.png)](https://github.com/mrhansamala)
+[![](./assets/main.png)](https://github.com/mrhansamala)
 
 ## 🚀️ We're on Product Hunt!
 
